@@ -12,6 +12,8 @@ movement.
 The player can influence the flock using an attractor while the
 jellyfish navigate around obstacles in the environment.
 
+Here is the link to the itch.io
+https://zdp35nauedu.itch.io/jellyfish-boid-drift
 ------------------------------------------------------------------------
 
 ### How to Interact
